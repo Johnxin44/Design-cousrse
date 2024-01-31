@@ -1,0 +1,146 @@
+#home {
+    background-color: black;
+}
+
+.navbar {
+    background: black;
+}
+
+.ss {
+    font-size: 70px;
+    margin-top: -50px;
+}
+
+.nav-link:hover {
+    background: rgb(56, 56, 56);
+    border-radius: 5px;
+}
+
+.pp {
+    font-size: 30px;
+    background: rgb(36, 36, 36);
+    padding: 15px 15px 15px 15px;
+    font-weight: 600;
+    border-radius: 10px;
+}
+
+.pp span {
+    color: greenyellow;
+}
+
+.pp1 {
+    font-size: 25px;
+}
+
+.p-2 {
+    font-size: 25px;
+    padding-left: 50px;
+}
+
+.ll {
+    font-size: 25px;
+}
+
+.p {
+    font-size: 30px;
+}
+
+.hh {
+    font-weight: 600;
+    font-size: 50px;
+    width: 700px;
+}
+
+.t {
+    width: 1000px;
+    font-weight: 100;
+}
+
+.tt {
+    width: 1000px;
+    font-weight: 100;
+}
+
+.carousel-item {
+    height: 360px;
+}
+
+.carousel-image-1 {
+    background: url(./img/malikdixon.0c506de.jpg);
+    width: 60%;
+    background-size: cover;
+}
+
+.carousel-image-2 {
+    background: url(./img/milla.3f8a658.jpg);
+    background-size: cover;
+    width: 60%;
+}
+
+.carousel-image-3 {
+    background: url(./img/gjorgi.80dbafb.jpg);
+    background-size: cover;
+    width: 60%;
+}
+
+.carousel-image-4 {
+    background: url(./img/arrgo.3d06023.jpg);
+    background-size: cover;
+    width: 60%;
+}
+
+.fa {
+    font-size: 25px;
+}
+
+.div {
+    margin-left: 1000px;
+    margin-top: -120px;
+    font-size: 20px;
+}
+
+.foot {
+    background-color: rgb(33, 33, 33);
+    color: white;
+}
+
+.fot {
+    background-color: black;
+    margin-left: 600px;
+    margin-bottom: 60px;
+}
+
+.ff {
+    color: rgb(167, 167, 167);
+}
+
+.p-5 {
+    margin-left: 400px;
+}
+
+.py-3 {
+    background-image: url(./img/garystudio.png);
+    background-repeat: no-repeat;
+    height: 110vh;
+    background-size: cover;
+}
+
+.uhh {
+    margin-top: 250px;
+}
+
+.fa-linkedin {
+    border-radius: 5px;
+}
+
+.tr {
+    margin-left: 200px;
+}
+
+.te {
+    margin-left: 150px;
+}
+
+.ty {
+    margin-left: 150px;
+}
